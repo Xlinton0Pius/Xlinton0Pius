@@ -1,4 +1,4 @@
-## Hi there 👋
+thanks ## Hi there 👋
 
 <!--
 **Xlinton0Pius/Xlinton0Pius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
